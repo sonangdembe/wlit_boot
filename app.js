@@ -10,7 +10,7 @@ var usersRouter = require('./routes/users');
 var booksRouter = require('./routes/books');
 
 var app = express();
-
+// here is parse applications
 // parse application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({ extended: false }))
 		
