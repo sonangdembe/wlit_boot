@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 // var books = require('../resources/books');
-const Book = require('../models/books');
+const Book = require('../models/book');
 /* GET home page. */
 
 
