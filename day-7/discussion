@@ -1,0 +1,38 @@
+code to create expressJs
+step-1 :- express BookApp --view ejs  // to create the form
+step-2 :- cd folder name 
+step-3 :- npm install [node module was added]
+step-4 :- npm start [check in browser localhost:3000]
+
+// to install nodemon
+step-1 :-  npm install -g nodemon
+step-2 :- nodemon [check wheather it is install or not]
+
+// if the system is crashed then 
+         1.      npx install kill-port
+           2.    npx kill-port 3000 [then it will cleat]
+               
+// file structure
+package.json :- keeps meta of folder [what is name of folder]
+
+package-lock.json :- 
+
+bin => www [it checks about the port]
+
+views => what we see in screen is viwes
+
+app.js => it have everything that start with json
+- contains middleware
+[express ko entry point]
+
+routes => it will set the routs of the file ,where to go after clicking comethisn 
+
+npm install body-parser :- to install body parser
+ 
+
+
+ //to run the expressJs
+ 1. cd <folder-name>
+ 2. npm start
+ 2. BookApp
+ 3. nodemon

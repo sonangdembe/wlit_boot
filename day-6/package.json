@@ -1,0 +1,17 @@
+{
+  "name": "day-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodejs.js",
+  "scripts": {
+    "start": "node nodejs.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

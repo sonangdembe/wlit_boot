@@ -1,0 +1,22 @@
+MongoDB
+
+why we need database?
+- data redundancy
+- data relationship
+- data backup and recovery
+- data history and auditing
+- data security
+- data integrity
+- data concurrency
+
+what is database?
+- should be in organized way
+- to store large amount of data 
+
+
+// Mangosh
+cmd
+
+show dbs-
+
+ 

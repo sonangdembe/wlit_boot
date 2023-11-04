@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>for events
+
+    </title>
+</head>
+<body>
+    <h1>event listerner</h1>
+    <div id="container">
+        <p>paragraph 1</p>
+        <p>paragraph 2</p>
+        <p>paragraph 3</p>
+        <p>paragraph 4</p>
+        <p>paragraph 5</p>
+    </div>
+    <input  id="firstName">
+    <button id="button">
+        submit
+    </button>
+    </body>
+
+<!----------------------------- js part ---------------------------->
+
+<script >
+const containerElement = document.getElementById('container');
+containerElement.addEventListener('mousehover',function(){
+consol.log('mouse hover')
+});
+const buttonElement = document.getElementById('container');
+buttonElement.addEventListener('click',function()
+{
+    console.log('button clicked');
+});
+
+//keyboard 
+const inputElement = document.getElementById('firstName');
+inputElement.addEventListener('keypress',function(event){
+    console.log('keypressed',event);
+});
+
+//form event
+
+//inheritance
+const user ={}
+
+    </script>
+
+
+</html>

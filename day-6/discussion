@@ -1,0 +1,32 @@
+node js :- it is open source
+- cross platform  (can run in mac os /window)
+- runtime enviroment
+- it is used to create the API/server side
+- it is created by Ryan Dahi  2009
+- this is single thread
+- non-blocking
+- asynchronous programming
+- memory efficient :- it is single thread so no need more memory
+
+javaScript Engine :- that convert the language written in js to machine level language
+
+//packmanage
+
+NPM :- to install package of nodejs (used)
+NVM :- version manager
+
+global installation 
+nom install -g <package_name>
+
+Modules
+it's types are
+1. core modules :- already installed modules 
+2. Local modules  :- we make ourself
+3. Third party modules :-developer code and we clone according to our need
+
+//
+import vs required
+ES6-import & export
+
+//Express
+it will make the skeleton of the code
